@@ -1,0 +1,195 @@
+body {
+	font-family: 'lato';
+	background: url('../image/background.jpg') no-repeat fixed;
+	background-size: cover;
+	color: white;
+}
+
+h1 {
+	margin: 0;
+	font-size: 35px;
+	transition: 0.5s;
+}
+
+h2 {
+	margin: 0;
+	font-size: 30px;
+	transition: 0.5s;
+}
+
+h3 {
+	margin: 0;
+	font-size: 25px;
+	transition: 0.5s;
+}
+
+h4 {
+	margin: 0;
+	font-size: 20px;
+	transition: 0.5s;
+}
+
+h5 {
+	margin: 0;
+	font-size: 15px;
+	transition: 0.5s;
+}
+
+h6 {
+	margin: 0;
+	font-size: 10px;
+	transition: 0.5s;
+}
+
+section	{
+	width: 100%;
+	height: 100vh;
+	background-color: #ccc;
+
+}
+
+.lsp-1 {
+	letter-spacing: 1px;
+}
+
+.lsp-2 {
+	letter-spacing: 2px;
+}
+
+.lsp-3 {
+	letter-spacing: 3px;
+}
+
+/* Standart style end */
+
+/* Header style */
+
+a, .navbar-brand h2 {
+	color: #ffce93;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.navbar {
+	transition: 0.5s all ease;
+	background-color: #00000000;
+	position: fixed;
+}
+
+.navbar a {
+	text-shadow: 0px 0px 16px black;
+}
+
+/* Header style end */
+
+
+/* Content style */
+
+/* Difference */
+
+.row {
+	margin: 0;
+}
+
+
+
+.content {
+	margin-top: 150px;
+	margin-bottom: 82px;
+	box-shadow: 0px 0px 20px 2px black;
+	padding: 0;
+}
+
+section:nth-child(2n) {
+	background-color: #ccc;
+}
+
+/* Section 1 */
+
+.sec1 {
+
+	background: url('../image/header-background.jpg') 100%;
+	background-size: cover;
+	height: 350px;
+}
+.skin {
+
+	width: 100%;
+	height: 100%;
+	background-color: #3cd8f1d4;
+	padding: 20px 10px 10px 10px;
+
+}
+
+.good {
+	margin: 0 10px;
+	padding: 0;
+	transition: 0.5s all ease;
+}
+
+.good:hover {
+	box-shadow: 0px 0px 5px black;
+}
+
+.img-container {
+    background-size: cover;
+    overflow: hidden;
+}
+
+.img-container img {
+    width: 100%;
+    height: 100%;       
+}
+
+.info {
+	padding: 5px;
+	text-align: center;
+}
+
+/* Section 1 end*/
+
+/* Section 2 */
+
+
+
+/* Section 2 end*/
+
+/* Section 3 */
+
+
+
+/* Section 3 end*/
+
+/* Section 4 */
+
+
+
+/* Section 4 end*/
+
+/* Naviagtion style */
+
+
+
+/* Naviagtion style end*/
+
+
+
+
+
+
+
+
+
+/* Content style end */
+
+/* Footer style */
+
+.footer {
+	bottom: 0;
+	width: 100%;
+	height: 80px;
+	background-color: #ccc;
+
+}
+
+/* Footer style end*/
